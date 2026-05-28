@@ -11,7 +11,7 @@
 
 ```text
 Name    :  Amoghavarsha C S
-Role    :  Software Engineer
+Role    :  Software Dev
 Motto   :  I hear techy when u say tacky
 GitHub  :  AmoghavarshaCS
 ```
