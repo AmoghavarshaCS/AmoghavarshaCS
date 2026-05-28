@@ -64,8 +64,8 @@ GitHub  :  AmoghavarshaCS
 | Platform   | Link |
 |------------|------|
 | Portfolio  | _coming soon_ |
-| LinkedIn   | _coming soon_ |
-| Email      | _coming soon_ |
+| LinkedIn   | [amoghavarsha-cs](https://www.linkedin.com/in/amoghavarsha-cs) |
+| Email      | amoghavarshacs25@gmail.com |
 
 ---
 
