@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amoghavarsha+C+S;General+Software+Engineer;I+hear+techy+when+u+say+tacky" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=AmoghavarshaCS&style=flat-square&color=4A90E2&label=profile+views)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amoghavarsha+C+S;Software+Engineer;I+hear+techy+when+u+say+tacky" alt="Typing SVG" /></a>
 
 </div>
 
