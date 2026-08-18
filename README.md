@@ -51,11 +51,6 @@ GitHub  :  AmoghavarshaCS
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmoghavarshaCS&theme=github-compact&hide_border=true&bg_color=0d1117&color=4A90E2&line=4A90E2&point=ffffff" />
-
----
 
 ### 🔗 Connect
 
