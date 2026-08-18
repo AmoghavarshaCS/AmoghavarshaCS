@@ -2,6 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Amoghavarsha+C+S;AI+%26+Software+Engineer;Building+Intelligent+Systems;Agentic+AI+%7C+Cybersecurity+%7C+Full-Stack" alt="Typing SVG" />
 
+<br/>
+
+</div>
+
+<br/>
+
 ## 👨‍💻 About Me
 
 ```yaml
