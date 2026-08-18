@@ -2,16 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Amoghavarsha+C+S;AI+%26+Software+Engineer;Building+Intelligent+Systems;Agentic+AI+%7C+Cybersecurity+%7C+Full-Stack" alt="Typing SVG" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoghavarsha-cs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoghavarshacs25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmoghavarshaCS)
-
-</div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 ```yaml
